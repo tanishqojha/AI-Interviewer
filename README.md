@@ -36,7 +36,7 @@ Key features:
 
 ### 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/tanishqojha/AI-Interviewer.git
 cd ai_mock_interviews-main
 ```
 
